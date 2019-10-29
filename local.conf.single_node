@@ -1,4 +1,4 @@
-# Controller configuration
+#All in one single node config
 [[local|localrc]]
 
 HOST_IP=192.168.6.70
